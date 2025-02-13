@@ -11,8 +11,8 @@ spark = SparkSession.builder \
 postgres_url = "jdbc:postgresql://localhost:5432/postgres"  # Using local PostgreSQL
 table_name = "filtered_users"  # Your target table name
 properties = {
-    "user": "your_username",  # Replace with your PostgreSQL username
-    "password": "your_password",  # Replace with your PostgreSQL password
+    "user": "postgres",  # Replace with your PostgreSQL username
+    "password": "Dream",  # Replace with your PostgreSQL password
     "driver": "org.postgresql.Driver"
 }
 
