@@ -49,5 +49,6 @@ def main():
     end_time = time.time()
     print(f"Total Execution Time: {end_time - start_time:.2f} seconds")
 
+# this is the end of the code. Just to test databricks git integration functionality
 if __name__ == "__main__":
     main()
