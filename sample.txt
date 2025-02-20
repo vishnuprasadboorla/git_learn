@@ -1,5 +1,3 @@
 this is a sample text file created in Github
 
-this is also updated
-
-But, why did this not happend on first try??
+I think this is already updated in my GitHub. Lets see whathappens now.

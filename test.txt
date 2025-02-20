@@ -1,18 +1,2 @@
 this is a testing file
 
-I am adding extra lines in the present test.txt and pushing it to github.
-
-this statement is from UI Application
-
-Testing from b1. Overwriting the contents present in test.txt from branch b1
-I dont understand righnow even after selecting remotes/origin/b1 from options, its not getting pushed to b1 branch, its pushing to main.
-But why its like this
-
-
-
-testing the server.js using Postman API and with branch test5
-
-
-
-heyy you have you gone mad?
-why are you not working properly
