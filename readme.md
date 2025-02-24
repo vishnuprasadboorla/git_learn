@@ -8,4 +8,5 @@ Adding 1 more sentence to this.
 ```javascript
 console.log('hello world);
 ```
-this is being updated in GITHUB UI.
+
+trying to update from MAIN branch from UI to reset waste branch to main branch. DATABRICKSs
