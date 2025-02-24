@@ -9,4 +9,4 @@ Adding 1 more sentence to this.
 console.log('hello world);
 ```
 
-trying to update from waste branch from UI
+trying to update from MAIN branch from UI to reset waste branch to main branch.
