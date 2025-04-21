@@ -1,9 +1,0 @@
-this is a sample text file created in Github
-
-I think this is already updated in my GitHub. Lets see whathappens now.
-
-I am doing this from databricks
-
-this is what I am chaasasdfasdfasdf
-
-changes that I am doing now.
