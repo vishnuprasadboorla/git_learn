@@ -9,7 +9,7 @@ Adding 1 more sentence to this.
 console.log('hello world);
 ```
 
-trying to update from MAIN branch from UI to reset waste branch to main branch.
+chnaged in github like this asdfworkspaceFile[0].lookup_file_types_id == global.lookupFileTypesByName['GIT_FOLDER']
 
 
 
